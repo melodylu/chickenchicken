@@ -1,0 +1,24 @@
+{
+  "name": "chickenchicken",
+  "version": "1.0.0",
+  "description": "chick chicken chicken.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test-chicken"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/melodylu/chickenchicken.git"
+  },
+  "keywords": [
+    "chicken",
+    "chicken",
+    "chicken"
+  ],
+  "author": "mel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/melodylu/chickenchicken/issues"
+  },
+  "homepage": "https://github.com/melodylu/chickenchicken"
+}
