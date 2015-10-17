@@ -1,1 +1,1 @@
-console.log("chicken!");
+var cool = require('cool-ascii-faces');
